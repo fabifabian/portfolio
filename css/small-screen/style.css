@@ -1,0 +1,64 @@
+.navbar-buttons a{
+    font-size: 0.8rem;
+}
+
+.main-graphic {
+    width: 94%;
+    margin: -20% 3%;
+}
+
+.main-text {
+    width: 94%;
+    margin: 0 3%;
+    text-align: center;
+    padding-top: 3%;
+}
+
+.main-text img{
+    width: 50%;
+    height: auto;
+}
+
+.skills div{
+    margin: 3% 5%;
+    width: 90%;
+    float: none;
+}
+
+.skills div:hover{
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(23, 0, 156, 0.19);
+}
+
+#s-div-1{
+    float: none;
+    margin: 1% 5%;
+}
+
+#s-div-2{
+    float: none;
+}
+
+#s-div-3{
+    float: none;
+    margin: 1% 5%;
+}
+
+.projects img{
+    width: 96%;
+    margin: 2%;
+    border: dashed blue;
+}
+
+.goals {
+    width: 98%;
+    margin: 1%;
+}
+
+.goal-item-1:hover {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(23, 0, 156, 0.19);
+    color: rgb(49, 49, 255);
+}
+
+.goal-item-2:hover {
+    color: whitesmoke;
+}
