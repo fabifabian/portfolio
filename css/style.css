@@ -45,7 +45,7 @@ body {
 /* Main content of the page */
 .main {
     width: 98%;
-    margin: 0 1% 44% 0;
+    margin: 0 1% 58% 0;
     border-radius: 1.5rem;
     font-size: 1.2rem;
     color: rgb(13, 0, 197);
@@ -54,14 +54,14 @@ body {
 .main-text {
     float: left;
     width: 40%;
-    margin: 6% 5%;
+    margin: 6% 5% 25% 5%;
 }
 
 
 .main-graphic {
     float: right;
     width: 35%;
-    margin: 2.5% 7%;
+    margin: 2.5% 7% 10% 7%;
     border-radius: 50%;
 }
 
